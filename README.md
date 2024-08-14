@@ -1,9 +1,9 @@
-**#---------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------
 
 Author : M. Hamza Ijaz
 Dated : 30 - December - 2023
 
-#---------------------------------------------------------------------------------**
+#---------------------------------------------------------------------------------
 
 **Introduction:**
 
@@ -23,8 +23,12 @@ The main objective of this project is to provide a simple, user-friendly interfa
 This project is intended for educational purposes to demonstrate the use of C++ structures, functions, control statements, and basic input/output operations. It is a small-scale project that can be extended with additional features such as data persistence, more account slots, and enhanced security.
 
 **Project Tree:**
+
+
 ![image](https://github.com/user-attachments/assets/67dee768-9412-4525-8fce-e9b04e05241b)
 
 
 **Example Output:**
+
+
 ![image](https://github.com/user-attachments/assets/aadaa959-d3e6-406d-88b0-4c2150ca15f8)
